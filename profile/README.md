@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://moss.land">
-    <img src="https://avatars.githubusercontent.com/u/38033515?v=4" width="220" alt="Mossland Logo">
+  <a href="https://github.com/MosslandOpenDevs">
+    <img src="https://avatars.githubusercontent.com/u/142641063?s=200&v=4" width="220" alt="Mossland Open Developers Logo">
   </a>
 
   <h1>Mossland Open Developers</h1>
