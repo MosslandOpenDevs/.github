@@ -39,17 +39,12 @@ open-source code, experiments, documentation, and developer programs.
 
 ## 📂 Featured Repositories
 
-- 🏛️ **Governance** — **[MossDAO](https://github.com/MosslandOpenDevs/MossDAO)**  
-  Governance model, proposal process, and DAO-related materials.
-
-- 🏆 **Hackathons & Prototypes** — **[Hackathon](https://github.com/MosslandOpenDevs/Hackathon)**  
-  Hackathon resources and mini-service prototypes.
-
-- 🌍 **Metaverse** — **[mossverse](https://github.com/MosslandOpenDevs/mossverse)**  
-  Open-source metaverse project repository.
-
-- 🌱 **Developer Support Program** — **[MosslandDeveloperSupportProgram](https://github.com/MosslandOpenDevs/MosslandDeveloperSupportProgram)**  
-  Program overview and participation info for open-source developers.
+- 🤖 **Orchestration** — **[agentic-orchestrator](https://github.com/MosslandOpenDevs/agentic-orchestrator)** Autonomous orchestration engine for multi-agent swarms.
+- 🔗 **Governance OS** — **[bridge-2026](https://github.com/MosslandOpenDevs/bridge-2026)** Reality signals → proposals → consensus → on-chain proofs.
+- 🧠 **AI Research** — **[MosslandAI](https://github.com/MosslandOpenDevs/MosslandAI)** Computer vision, NLP, and data analytics resources.
+- 🏛️ **Governance** — **[MossDAO](https://github.com/MosslandOpenDevs/MossDAO)** Governance model, proposal process, and DAO-related materials.
+- 🌍 **Metaverse & Prototypes** — **[mossverse](https://github.com/MosslandOpenDevs/mossverse)** / **[Hackathon](https://github.com/MosslandOpenDevs/Hackathon)** Open-source metaverse project and mini-service prototypes.
+- 🌱 **Developer Support Program** — **[MosslandDeveloperSupportProgram](https://github.com/MosslandOpenDevs/MosslandDeveloperSupportProgram)** Program overview and participation info for open-source developers.
 
 ---
 
@@ -59,6 +54,17 @@ We welcome community contributions—code, docs, ideas, and fixes.
 - Pick a repository and read its README (and CONTRIBUTING.md if available).
 - Keep PRs focused: **what changed / why / how to test**.
 - Not sure where to start? Open an issue and ask.
+
+---
+
+## 🏢 Explore the Ecosystem
+
+Looking for something else? Visit our other official accounts:
+
+| Account | Description |
+|-------------|-------------|
+| 📌 **[mossland](https://github.com/mossland)** | **Main Portal.** Project disclosures, token contracts, and general info. |
+| 🛡️ **[MosslandCore](https://github.com/MosslandCore)** | **Internal Core.** Private infrastructure and production services. |
 
 ---
 
