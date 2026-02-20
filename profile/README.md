@@ -63,7 +63,8 @@ We welcome community contributions—code, docs, ideas, and fixes.
 ---
 
 ## 🚨 Security
-If you believe you’ve found a security issue, **please do not open a public issue**.
+
+If you believe you've found a security issue, **please do not open a public issue.**  
 Email: **[contact@moss.land](mailto:contact@moss.land)**
 
 ---
