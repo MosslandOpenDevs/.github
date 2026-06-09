@@ -56,7 +56,7 @@ This GitHub organization hosts the **public, community-facing** parts of the pro
 | Track | Repository | Status | Live / Docs |
 |---|---|---|---|
 | Agentic Orchestration | [agentic-orchestrator](https://github.com/MosslandOpenDevs/agentic-orchestrator) | Active | [ao.moss.land](https://ao.moss.land) |
-| AI Media & MCP | [alpha](https://github.com/MosslandOpenDevs/alpha) / [alpha-mcp](https://github.com/MosslandOpenDevs/alpha-mcp) | Active | [alpha.moss.land](https://alpha.moss.land) |
+| AI Media & MCP | [alpha](https://github.com/MosslandOpenDevs/alpha) / [alpha-mcp](https://github.com/MosslandOpenDevs/alpha-mcp) | Recent/Maintained | [alpha.moss.land](https://alpha.moss.land) |
 | AI Governance | [Algora](https://github.com/MosslandOpenDevs/Algora) | Incubating | [algora.moss.land](https://algora.moss.land) |
 | Governance OS | [bridge-2026](https://github.com/MosslandOpenDevs/bridge-2026) | Design / Spec | — |
 | DAO Governance | [MossDAO](https://github.com/MosslandOpenDevs/MossDAO) | Active docs | — |
