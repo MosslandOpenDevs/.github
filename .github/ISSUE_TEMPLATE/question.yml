@@ -1,0 +1,40 @@
+name: Question
+description: Ask a usage or behavior question about a project in this organization.
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not ask security questions here. Suspected vulnerabilities and
+        security-sensitive questions go through the affected repository's
+        Security tab; see the organization [SECURITY.md](https://github.com/MosslandOpenDevs/.github/blob/main/SECURITY.md).
+  - type: input
+    id: context
+    attributes:
+      label: Repository or area
+      description: The repository, component, or document the question is about.
+      placeholder: "MosslandOpenDevs/example-repo"
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What are you trying to do, and what is unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: consulted
+    attributes:
+      label: What you already consulted
+      description: Documentation, issues, or code you checked before asking.
+    validations:
+      required: false
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure check
+      options:
+        - label: This issue contains no secrets, personal data, or actionable vulnerability detail
+          required: true

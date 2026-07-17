@@ -1,0 +1,62 @@
+name: Bug report
+description: Report a defect in this repository.
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not report suspected vulnerabilities here. If the defect could be
+        exploited, use private reporting per SECURITY.md instead of a public
+        issue.
+  - type: input
+    id: affected
+    attributes:
+      label: Affected area and version
+      description: The repository area or component affected, and the version or commit at which the bug reproduces.
+      placeholder: "build scripts, v0.1.0 or 0123456789abcdef0123456789abcdef01234567"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What actually happened, stated concretely.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: The minimal steps or commands that reproduce the bug.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, runtime versions, and any configuration relevant to the bug.
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Relevant log excerpts, with secrets and personal data removed.
+      render: text
+    validations:
+      required: false
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure check
+      options:
+        - label: This issue contains no secrets, personal data, or actionable vulnerability detail
+          required: true

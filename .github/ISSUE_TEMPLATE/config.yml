@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/MosslandOpenDevs/.github/blob/main/SECURITY.md
+    about: Use the affected repository's Security tab to report privately. Never open a public issue for a suspected vulnerability.
+  - name: Organization profile
+    url: https://github.com/MosslandOpenDevs
+    about: Overview of Mossland OpenDevs projects.
