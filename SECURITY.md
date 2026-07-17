@@ -18,10 +18,10 @@ repository's Security tab (Private Vulnerability Reporting). Report the issue
 to the repository where the weakness lives, not to the organization.
 
 If private vulnerability reporting is unavailable on the affected repository,
-open a public Issue containing no technical details and ask maintainers to
-establish a private contact channel. Do not include reproduction steps,
-affected secrets, logs, user data, exploit code, or an actionable attack path
-in that Issue.
+or you prefer email, write to **[contact@moss.land](mailto:contact@moss.land)**
+— the organization's published security contact. Never put reproduction steps,
+secrets, logs, user data, exploit code, or an actionable attack path in a
+public Issue.
 
 A useful private report includes:
 
