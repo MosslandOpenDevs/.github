@@ -44,6 +44,8 @@ This GitHub organization hosts the **public, community-facing** parts of the pro
   alpha's 12 tools exposed as MCP for Claude Desktop, Cursor, Cline, Continue, and Zed.
 - 🗣️ **AI Governance** — **[Algora](https://github.com/MosslandOpenDevs/Algora)**  
   Multi-agent swarm intelligence for DAO — an autonomous debate platform with real-time logic visualization.
+- 🧪 **Agentic Assurance** — **[agentic-assurance-profile](https://github.com/MosslandOpenDevs/agentic-assurance-profile)**  
+  A repository-level assurance standard for software substantially built or maintained by AI coding agents — intent, claims, invariants, evidence, and residual risk, checked in CI. Developed and dogfooded on our own repositories.
 - 🏛️ **DAO Governance** — **[MossDAO](https://github.com/MosslandOpenDevs/MossDAO)**  
   Governance model, proposal process, and DAO-related materials.
 - 🌱 **Developer Support** — **[MosslandDeveloperSupportProgram](https://github.com/MosslandOpenDevs/MosslandDeveloperSupportProgram)**  
@@ -58,6 +60,7 @@ This GitHub organization hosts the **public, community-facing** parts of the pro
 | Agentic Orchestration | [agentic-orchestrator](https://github.com/MosslandOpenDevs/agentic-orchestrator) | Active | [ao.moss.land](https://ao.moss.land) |
 | AI Media & MCP | [alpha](https://github.com/MosslandOpenDevs/alpha) / [alpha-mcp](https://github.com/MosslandOpenDevs/alpha-mcp) | Recent/Maintained | [alpha.moss.land](https://alpha.moss.land) |
 | AI Governance | [Algora](https://github.com/MosslandOpenDevs/Algora) | Incubating | [algora.moss.land](https://algora.moss.land) |
+| Agentic Assurance | [agentic-assurance-profile](https://github.com/MosslandOpenDevs/agentic-assurance-profile) | v0.3.1 · dogfooding | [Releases](https://github.com/MosslandOpenDevs/agentic-assurance-profile/releases) |
 | Governance OS | [bridge-2026](https://github.com/MosslandOpenDevs/bridge-2026) | Design / Spec | [bridge.moss.land](https://bridge.moss.land/) |
 | DAO Governance | [MossDAO](https://github.com/MosslandOpenDevs/MossDAO) | Active docs | — |
 | Developer Grants | [MosslandDeveloperSupportProgram](https://github.com/MosslandOpenDevs/MosslandDeveloperSupportProgram) | Open | — |
