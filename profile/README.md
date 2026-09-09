@@ -42,8 +42,8 @@ This GitHub organization hosts the **public, community-facing** parts of the pro
   Korean crypto × AI vertical media — AI briefs, RAG, and AI personas with track records. Live: [alpha.moss.land](https://alpha.moss.land)
 - 🔌 **MCP Server** — **[alpha-mcp](https://github.com/MosslandOpenDevs/alpha-mcp)**  
   alpha's 12 tools exposed as MCP for Claude Desktop, Cursor, Cline, Continue, and Zed.
-- 🗣️ **AI Governance** — **[Algora](https://github.com/MosslandOpenDevs/Algora)**  
-  Multi-agent swarm intelligence for DAO — an autonomous debate platform with real-time logic visualization.
+- 🗣️ **AI Governance (archived)** — **[Algora](https://github.com/MosslandOpenDevs/Algora)**  
+  Multi-agent swarm intelligence for DAO — an autonomous debate platform with real-time logic visualization. Archived under MIP-1 on 2026-09-02; scheduled report generation stopped on the same date. Preserved read-only, not deleted. The always-on deliberation track continues in [agentic-orchestrator](https://github.com/MosslandOpenDevs/agentic-orchestrator).
 - 🧪 **Agentic Assurance** — **[agentic-assurance-profile](https://github.com/MosslandOpenDevs/agentic-assurance-profile)**  
   A repository-level assurance standard for software substantially built or maintained by AI coding agents — intent, claims, invariants, evidence, and residual risk, checked in CI. Developed and dogfooded on our own repositories.
 - 🏛️ **DAO Governance** — **[MossDAO](https://github.com/MosslandOpenDevs/MossDAO)**  
@@ -59,7 +59,7 @@ This GitHub organization hosts the **public, community-facing** parts of the pro
 |---|---|---|---|
 | Agentic Orchestration | [agentic-orchestrator](https://github.com/MosslandOpenDevs/agentic-orchestrator) | Active | [ao.moss.land](https://ao.moss.land) |
 | AI Media & MCP | [alpha](https://github.com/MosslandOpenDevs/alpha) / [alpha-mcp](https://github.com/MosslandOpenDevs/alpha-mcp) | Recent/Maintained | [alpha.moss.land](https://alpha.moss.land) |
-| AI Governance | [Algora](https://github.com/MosslandOpenDevs/Algora) | Incubating | [algora.moss.land](https://algora.moss.land) |
+| AI Governance | [Algora](https://github.com/MosslandOpenDevs/Algora) | **Archive** (MIP-1, 2026-09-02) | [algora.moss.land](https://algora.moss.land) |
 | Agentic Assurance | [agentic-assurance-profile](https://github.com/MosslandOpenDevs/agentic-assurance-profile) | dogfooding | [Releases](https://github.com/MosslandOpenDevs/agentic-assurance-profile/releases) |
 | Governance OS | [bridge-2026](https://github.com/MosslandOpenDevs/bridge-2026) | Design / Spec | [bridge.moss.land](https://bridge.moss.land/) |
 | DAO Governance | [MossDAO](https://github.com/MosslandOpenDevs/MossDAO) | Active docs | — |
