@@ -4,20 +4,20 @@
   </a>
   <h1>Mossland Open Developers</h1>
   <p>
-    Official open-source repositories and builder resources for Mossland.
+    Public repositories and builder resources for Mossland; see each repository for its license.
   </p>
   <p>
-    <a href="https://moss.land">
-      <img src="https://img.shields.io/badge/Website-moss.land-black?style=for-the-badge&logo=google-chrome" alt="Website">
-    </a>
+    <!-- opendevs-badges:start -->
+    <a href="https://moss.land/"><img src="https://img.shields.io/badge/Website-moss.land-2563eb?style=flat" alt="Website: moss.land"></a>
+    <!-- opendevs-badges:end -->
     <a href="https://medium.com/mossland-blog">
-      <img src="https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium" alt="Medium Blog">
+      <img src="https://img.shields.io/badge/Blog-Medium-12100E?style=flat&logo=medium" alt="Medium Blog">
     </a>
     <a href="https://disclosure.moss.land">
-      <img src="https://img.shields.io/badge/Disclosures-disclosure.moss.land-3366FF?style=for-the-badge" alt="Disclosures">
+      <img src="https://img.shields.io/badge/Disclosures-disclosure.moss.land-3366FF?style=flat" alt="Disclosures">
     </a>
     <a href="mailto:contact@moss.land">
-      <img src="https://img.shields.io/badge/Contact-contact%40moss.land-D14836?style=for-the-badge&logo=gmail" alt="Email">
+      <img src="https://img.shields.io/badge/Contact-contact%40moss.land-D14836?style=flat&logo=gmail" alt="Email">
     </a>
   </p>
 </div>
@@ -28,7 +28,7 @@
 
 Mossland began as a blockchain-based metaverse project and is now evolving into **infrastructure for the AI civilization** — agentic orchestration, Physical AI, AI media, and transparent on-chain coordination.
 
-This GitHub organization hosts the **public, community-facing** parts of the project: open-source code, experiments, documentation, and developer programs.
+This GitHub organization hosts the **public, community-facing** parts of the project: code, experiments, documentation, and developer programs. Licensing varies by repository.
 
 > **Rule of thumb:** If it's safe to share publicly, it lives here.
 
@@ -57,19 +57,21 @@ This GitHub organization hosts the **public, community-facing** parts of the pro
 
 | Track | Repository | Status | Live / Docs |
 |---|---|---|---|
-| Agentic Orchestration | [agentic-orchestrator](https://github.com/MosslandOpenDevs/agentic-orchestrator) | Active | [ao.moss.land](https://ao.moss.land) |
-| AI Media & MCP | [alpha](https://github.com/MosslandOpenDevs/alpha) / [alpha-mcp](https://github.com/MosslandOpenDevs/alpha-mcp) | Recent/Maintained | [alpha.moss.land](https://alpha.moss.land) |
+| Agentic Orchestration | [agentic-orchestrator](https://github.com/MosslandOpenDevs/agentic-orchestrator) | Lab | [ao.moss.land](https://ao.moss.land) |
+| AI Media & MCP | [alpha](https://github.com/MosslandOpenDevs/alpha) / [alpha-mcp](https://github.com/MosslandOpenDevs/alpha-mcp) | Beta (Alpha) | [alpha.moss.land](https://alpha.moss.land) |
 | AI Governance | [Algora](https://github.com/MosslandOpenDevs/Algora) | **Archive** (MIP-1, 2026-09-02) | [algora.moss.land](https://algora.moss.land) |
 | Agentic Assurance | [agentic-assurance-profile](https://github.com/MosslandOpenDevs/agentic-assurance-profile) | dogfooding | [Releases](https://github.com/MosslandOpenDevs/agentic-assurance-profile/releases) |
-| Governance OS | [bridge-2026](https://github.com/MosslandOpenDevs/bridge-2026) | Design / Spec | [bridge.moss.land](https://bridge.moss.land/) |
+| Governance OS | [bridge-2026](https://github.com/MosslandOpenDevs/bridge-2026) | Lab | [bridge.moss.land](https://bridge.moss.land/) |
 | DAO Governance | [MossDAO](https://github.com/MosslandOpenDevs/MossDAO) | Active docs | — |
 | Developer Grants | [MosslandDeveloperSupportProgram](https://github.com/MosslandOpenDevs/MosslandDeveloperSupportProgram) | Open | — |
 
 ---
 
+Lifecycle labels follow the [ecosystem registry](https://links.moss.land/ecosystem-registry.json). For README maintenance, see the [shared badge conventions](https://github.com/MosslandOpenDevs/.github#readme-badges).
+
 ## 🗄️ Archive & Historical Projects
 
-Earlier metaverse, hackathon, and brand-identity materials are preserved for transparency and historical continuity:
+Earlier metaverse, hackathon, and brand-identity materials are available for historical reference; each repository documents its own maintenance status:
 **[mossverse](https://github.com/MosslandOpenDevs/mossverse)** · **[Hackathon](https://github.com/MosslandOpenDevs/Hackathon)** · **[Brand-Identity](https://github.com/MosslandOpenDevs/Brand-Identity)**
 
 ---
